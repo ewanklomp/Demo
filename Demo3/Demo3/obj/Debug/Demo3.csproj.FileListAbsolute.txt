@@ -1,0 +1,8 @@
+c:\users\ewan\documents\visual studio 2015\Projects\Demo3\Demo3\bin\Debug\Demo3.exe.config
+c:\users\ewan\documents\visual studio 2015\Projects\Demo3\Demo3\bin\Debug\Demo3.exe
+c:\users\ewan\documents\visual studio 2015\Projects\Demo3\Demo3\bin\Debug\Demo3.pdb
+c:\users\ewan\documents\visual studio 2015\Projects\Demo3\Demo3\obj\Debug\Demo3.csprojResolveAssemblyReference.cache
+c:\users\ewan\documents\visual studio 2015\Projects\Demo3\Demo3\obj\Debug\Demo3.Properties.Resources.resources
+c:\users\ewan\documents\visual studio 2015\Projects\Demo3\Demo3\obj\Debug\Demo3.csproj.GenerateResource.Cache
+c:\users\ewan\documents\visual studio 2015\Projects\Demo3\Demo3\obj\Debug\Demo3.exe
+c:\users\ewan\documents\visual studio 2015\Projects\Demo3\Demo3\obj\Debug\Demo3.pdb
